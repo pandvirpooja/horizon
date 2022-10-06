@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Crawl-delay:3
+Sitemap:http://24sunshine.in/.xml
+Sitemap:http://24sunshine.in/sitemap.xml
